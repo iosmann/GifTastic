@@ -1,4 +1,4 @@
-header{
+header {
     font-size: 28px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -6,21 +6,21 @@ header{
 
 body {
     background-color: #f18973;
-
 }
 
 #search-row {
     margin-bottom: 50px;
+    
 }
 
-
-#singer-form{
-    
+#singer-form {
     margin-top: 50px;
-    border: solid;
+    border: fuchsia;
     padding: 7px;
 }
 
 #addSinger {
     margin-top: 10px;
+    border: blueviolet; 
+    padding: 7px; 
 }
